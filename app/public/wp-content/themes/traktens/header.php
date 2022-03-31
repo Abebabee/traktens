@@ -20,7 +20,7 @@
 	<?php wp_head(); ?>
 </head>
 
-<body style="background-color:aqua;" <?php body_class(); ?>>
+<body style="background-color:red;" <?php body_class(); ?>>
 <?php wp_body_open(); ?>
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#primary"><?php esc_html_e( 'Skip to content', 'traktens' ); ?></a>
