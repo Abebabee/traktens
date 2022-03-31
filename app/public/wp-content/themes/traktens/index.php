@@ -29,6 +29,7 @@ get_header();
 			endif;
 
 			/* Start the Loop */
+			//yo!!
 			while ( have_posts() ) :
 				the_post();
 
