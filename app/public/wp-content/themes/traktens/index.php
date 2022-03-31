@@ -29,8 +29,6 @@ get_header();
 			endif;
 
 			/* Start the Loop */
-			//yo!!
-			//biiiitch!
 			while ( have_posts() ) :
 				the_post();
 
